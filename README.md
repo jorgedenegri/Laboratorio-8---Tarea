@@ -7,7 +7,7 @@
 >
 >*WITNESS, MILLER-RABIN, GENERATE-PRIME-CANDIDATE, GENERATE-PRIME *
 >
->*Esta vez implemento la función euclides, que va a sacar el gcd del par de números*
+>*en la función de entrada ingresa un número natural n>1, el número k de veces que se ejecuta el test y nos determina la fiabilidad del test, de salida nos da COMPUESTO si n es compuesto y POSIBLE PRIMO sI n es un posible primo, esto gracias a la función witness*
 >
 >**int euclides(int a, int b)**
 >
